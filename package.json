@@ -1,0 +1,27 @@
+{
+  "name": "import_export",
+  "version": "1.0.0",
+  "description": "import_export",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GragN/import_export.git"
+  },
+  "keywords": [
+    "import_export"
+  ],
+  "author": "Grag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GragN/import_export/issues"
+  },
+  "homepage": "https://github.com/GragN/import_export#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
